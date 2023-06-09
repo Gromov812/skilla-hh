@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Gromov812/skilla-hh/static/css/main.20ef36fb.css",
+    "main.js": "/Gromov812/skilla-hh/static/js/main.88af7a47.js",
+    "static/js/787.a2b9a5f1.chunk.js": "/Gromov812/skilla-hh/static/js/787.a2b9a5f1.chunk.js",
+    "index.html": "/Gromov812/skilla-hh/index.html",
+    "static/media/incall.svg": "/Gromov812/skilla-hh/static/media/incall.3dcdf08697f437f3b849b99c0c0eb9cd.svg",
+    "static/media/missedcall.svg": "/Gromov812/skilla-hh/static/media/missedcall.0633b95ae2e7c0b9b4339515df0ea85f.svg",
+    "static/media/outcall.svg": "/Gromov812/skilla-hh/static/media/outcall.34a5d6efb296704d489b6dff63dbbf82.svg",
+    "main.20ef36fb.css.map": "/Gromov812/skilla-hh/static/css/main.20ef36fb.css.map",
+    "main.88af7a47.js.map": "/Gromov812/skilla-hh/static/js/main.88af7a47.js.map",
+    "787.a2b9a5f1.chunk.js.map": "/Gromov812/skilla-hh/static/js/787.a2b9a5f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20ef36fb.css",
+    "static/js/main.88af7a47.js"
+  ]
+}
